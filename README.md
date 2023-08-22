@@ -1,6 +1,6 @@
-# React Tic-Tac-Toe Game
+# ReactJS Tic-Tac-Toe Game
 
-Welcome to the React Tic-Tac-Toe Game! This application allows players to play the classic game of Tic-Tac-Toe against each other.
+Welcome to the ReactJS Tic-Tac-Toe Game! This application allows players to play the classic game of Tic-Tac-Toe against each other.
 
 ## Table of Contents
 
@@ -9,6 +9,12 @@ Welcome to the React Tic-Tac-Toe Game! This application allows players to play t
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
+
+## OOP
+
+This ReactJS Tic-Tac-Toe application makes use of some Object-Oriented Programming (OOP) principles and concepts, even though ReactJS itself is primarily based on a functional programming paradigm. Here's how OOP concepts are applied in the code:
+Encapsulation- Components like Square and Board encapsulate their logic, behavior, and rendering, promoting code modularity and maintainability.
+Abstraction- The calculateWin function abstracts away complex logic for checking win conditions, mirroring the OOP principle of abstraction.
 
 ## Features
 
@@ -19,7 +25,7 @@ Welcome to the React Tic-Tac-Toe Game! This application allows players to play t
 
 ## Technologies Used
 
-- React
+- ReactJS
 - CSS
 
 ## Getting Started
@@ -27,13 +33,13 @@ Welcome to the React Tic-Tac-Toe Game! This application allows players to play t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AlmogSkalka/react-tic-tac-toe.git
+   git clone https://github.com/AlmogSkalka/ReactJS-tic-tac-toe.git
    ```
 
 2. Install the required dependencies:
 
    ```bash
-   cd react-tic-tac-toe
+   cd ReactJS-tic-tac-toe
    npm install
    ```
 
