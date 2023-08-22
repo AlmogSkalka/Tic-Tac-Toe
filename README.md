@@ -13,8 +13,9 @@ Welcome to the ReactJS Tic-Tac-Toe Game! This application allows players to play
 ## OOP
 
 This ReactJS Tic-Tac-Toe application makes use of some Object-Oriented Programming (OOP) principles and concepts, even though ReactJS itself is primarily based on a functional programming paradigm. Here's how OOP concepts are applied in the code:
-Encapsulation- Components like Square and Board encapsulate their logic, behavior, and rendering, promoting code modularity and maintainability.
-Abstraction- The calculateWin function abstracts away complex logic for checking win conditions, mirroring the OOP principle of abstraction.
+
+- Encapsulation - Components like Square and Board encapsulate their logic, behavior, and rendering, promoting code modularity and maintainability.
+- Abstraction - The calculateWin function abstracts away complex logic for checking win conditions, mirroring the OOP principle of abstraction.
 
 ## Features
 
