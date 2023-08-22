@@ -27,7 +27,7 @@ Welcome to the React Tic-Tac-Toe Game! This application allows players to play t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-tic-tac-toe.git
+   git clone https://github.com/AlmogSkalka/react-tic-tac-toe.git
    ```
 
 2. Install the required dependencies:
