@@ -4,6 +4,7 @@ Welcome to the ReactJS Tic-Tac-Toe Game! This application allows players to play
 
 ## Table of Contents
 
+- [OOP](#oop)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
